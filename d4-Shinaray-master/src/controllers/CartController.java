@@ -1,7 +1,7 @@
 package controllers;
 
 import controllers.interfaces.ICartController;
-import models.Book;
+import models.books.Book;
 import models.Cart;
 import models.users.User;
 import repositories.interfaces.ICartRepository;

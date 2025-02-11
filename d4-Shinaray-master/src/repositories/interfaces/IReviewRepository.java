@@ -1,6 +1,6 @@
 package repositories.interfaces;
 
-import models.Review;
+import models.review_r.Review;
 import java.util.List;
 
 public interface IReviewRepository {

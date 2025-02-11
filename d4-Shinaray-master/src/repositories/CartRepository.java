@@ -1,7 +1,7 @@
 package repositories;
 
 import data.interfaces.IDB;
-import models.Book;
+import models.books.Book;
 import models.Cart;
 import models.users.User;
 import repositories.interfaces.ICartRepository;

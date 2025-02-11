@@ -1,6 +1,6 @@
 package repositories.interfaces;
 
-import models.Book;
+import models.books.Book;
 import models.Cart;
 import models.users.User;
 

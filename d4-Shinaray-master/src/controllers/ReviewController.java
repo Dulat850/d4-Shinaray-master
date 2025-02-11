@@ -1,7 +1,7 @@
 package controllers;
 
 import controllers.interfaces.IReviewController;
-import models.Review;
+import models.review_r.Review;
 import repositories.interfaces.IReviewRepository;
 import java.util.List;
 

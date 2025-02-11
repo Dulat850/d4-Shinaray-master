@@ -1,6 +1,6 @@
 package repositories.interfaces;
 
-import models.Book;
+import models.books.Book;
 
 import java.util.List;
 

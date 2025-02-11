@@ -1,7 +1,7 @@
 package controllers;
 
 import controllers.interfaces.IBookController;
-import models.Book;
+import models.books.Book;
 import repositories.interfaces.IBookRepository;
 
 import java.util.List;

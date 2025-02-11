@@ -1,7 +1,7 @@
 package repositories;
 
 import data.interfaces.IDB;
-import models.Review;
+import models.review_r.Review;
 import repositories.interfaces.IReviewRepository;
 import java.sql.*;
 import java.util.ArrayList;

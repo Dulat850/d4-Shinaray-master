@@ -1,4 +1,4 @@
-package models;
+package models.review_r;
 
 public class Review {
     private int id;
