@@ -1,6 +1,6 @@
 package models.books;
 
-public class SCIENCE_FICTION extends Book {
+public class SCIENCE_FICTION extends Book implements book_genre{
     private String genre = "SCIENCE_FICTION";
 
     public String getGenre() {
@@ -18,5 +18,10 @@ public class SCIENCE_FICTION extends Book {
 
     public String toString() {
         return "SCIENCE_FICTION";
+    }
+
+    @Override
+    public String genre() {
+        return getGenre();
     }
 }
